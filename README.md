@@ -2,7 +2,7 @@
 
 SNV and Hand gesture dataset contains NIR images and corresponding masks which can be used for the task of Unsupervised domain adaptation for the task of skin segmentation. 
 
-Link to Pre-print of paper published: 
+Link to Pre-print of paper published: <br />
 Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search. Accepted in ECCV 2020 (Spotlight)
 [Preprint](https://arxiv.org/abs/2006.08696)
 
