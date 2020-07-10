@@ -11,7 +11,8 @@ Kindly fill the form to download the dataset -
 
 [Github Page](https://github.com/ambekarsameer96/GLSS)
 
-# Dataset Details < br />
+# Dataset Details 
+< br />
 ![](images/dataset_details.png)
 *Examples of Images and corresponding masks*
 
