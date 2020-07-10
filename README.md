@@ -23,6 +23,9 @@ Kindly fill the form to download the dataset -
 
 
 # Cite
+
+[Preprint](https://arxiv.org/abs/2006.08696)
+
 ```
 @article{pandey2020skin,
   title={Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search},
