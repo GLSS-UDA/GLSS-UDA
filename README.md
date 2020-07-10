@@ -12,4 +12,4 @@ Kindly fill the form to download the dataset -
 
 
 # Dataset Details 
-
+{% include image.html url="https://github.com/GLSS-UDA/GLSS-UDA.github.io/blob/master/images/dataset_details.png" description="Examples of Images and corresponding masks" %}
