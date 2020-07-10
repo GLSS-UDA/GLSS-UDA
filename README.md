@@ -1,4 +1,4 @@
-# SNV and Hand gesture Dataset
+# About
 
 SNV and Hand gesture dataset contains NIR images and corresponding masks which can be used for the task of Unsupervised domain adaptation for the task of skin segmentation. 
 
