@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# SNV and Hand gesture Dataset
 
-You can use the [editor on GitHub](https://github.com/GLSS-UDA/GLSS-UDA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SNV and Hand gesture dataset contains NIR images and corresponding masks which can be used for the task of Unsupervised domain adaptation for the task of skin segmentation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link to Pre-print of paper published: 
+Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search. Accepted in ECCV 2020 (Spotlight)
+https://arxiv.org/abs/2006.08696
 
-### Markdown
+Kindly fill the form to download the dataset - https://forms.gle/y5vPeyT6zi9gdqD57
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Dataset Details 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GLSS-UDA/GLSS-UDA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
