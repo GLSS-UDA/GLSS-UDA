@@ -12,4 +12,8 @@ Kindly fill the form to download the dataset -
 
 
 # Dataset Details 
-{% include image.html url="https://github.com/GLSS-UDA/GLSS-UDA.github.io/blob/master/images/dataset_details.png" description="Examples of Images and corresponding masks" %}
+![](images/dataset_details.png)
+*Examples of Images and corresponding masks*
+
+![](images/image_grid.png)
+*Qualitative comparison of predicted segmentation skin masks on SNV and Hand Gesture datasets with standard UDA methods. Top four rows shows skin masks for SNV dataset and the last four are the masks for Hand Gesture dataset. It is evident that GLSS predicted masks are very close to the GT masks as compared to other UDA methods. (SO=Source Only, ASN=AdaptSegNet, GT=Ground Truth)*
