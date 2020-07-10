@@ -6,10 +6,12 @@ Link to Pre-print of paper published: <br />
 Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search. Accepted in ECCV 2020 (Spotlight)
 [Preprint](https://arxiv.org/abs/2006.08696)
 
+[Github Page](https://github.com/ambekarsameer96/GLSS)
+
+
 Kindly fill the form to download the dataset - 
 [Form](http://forms.gle/y5vPeyT6zi9gdqD57) 
 
-[Github Page](https://github.com/ambekarsameer96/GLSS)
 
 # Dataset Details 
 
