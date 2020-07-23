@@ -7,7 +7,7 @@ SNV and Hand gesture dataset contains NIR images and corresponding masks which c
 Accepted in ECCV2020 (Spotlight). 
 Preprint: https://arxiv.org/abs/2006.08696
 
-[Code](https://github.com/ambekarsameer96/GLSS) | [Introduction Video](https://youtu.be/t4jIz2JvUjY)| [Download Dataset](http://forms.gle/y5vPeyT6zi9gdqD57)
+[Code](https://github.com/ambekarsameer96/GLSS) | [Introduction Video](https://youtu.be/t4jIz2JvUjY)
 
 
 # Dataset Details 
@@ -23,6 +23,7 @@ illumination changes and diversity in hand poses. Both SNV and Hand Gesture data
 ![](images/image_grid.png)
 Figure 2: *Qualitative comparison of predicted segmentation skin masks on Hand Gesture datasets with standard UDA methods. Top four rows shows skin masks for SNV dataset and the last four are the masks for Hand Gesture dataset. It is evident that GLSS predicted masks are very close to the GT masks as compared to other UDA methods. (SO=Source Only, ASN=AdaptSegNet, GT=Ground Truth)*
 
+[Download Dataset](http://forms.gle/y5vPeyT6zi9gdqD57)
 
 # Cite
 
