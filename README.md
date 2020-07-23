@@ -22,7 +22,7 @@ illumination changes and diversity in hand poses. Both SNV and Hand Gesture data
 *Figure1: Examples of Images and corresponding masks*
 
 ![](images/image_grid.png)
-Figure 2: *Qualitative comparison of predicted segmentation skin masks on SNV and Hand Gesture datasets with standard UDA methods. Top four rows shows skin masks for SNV dataset and the last four are the masks for Hand Gesture dataset. It is evident that GLSS predicted masks are very close to the GT masks as compared to other UDA methods. (SO=Source Only, ASN=AdaptSegNet, GT=Ground Truth)*
+Figure 2: *Qualitative comparison of predicted segmentation skin masks on Hand Gesture datasets with standard UDA methods. Top four rows shows skin masks for SNV dataset and the last four are the masks for Hand Gesture dataset. It is evident that GLSS predicted masks are very close to the GT masks as compared to other UDA methods. (SO=Source Only, ASN=AdaptSegNet, GT=Ground Truth)*
 
 
 # Cite
