@@ -7,8 +7,7 @@ SNV and Hand gesture dataset contains NIR images and corresponding masks which c
 Accepted in ECCV2020 (Spotlight). 
 Preprint: https://arxiv.org/abs/2006.08696
 
-|[Code](https://github.com/ambekarsameer96/GLSS) | [Introduction Video](https://youtu.be/t4jIz2JvUjY)| [Download Dataset](http://forms.gle/y5vPeyT6zi9gdqD57) |
-|---|---|---|
+[Code](https://github.com/ambekarsameer96/GLSS) | [Introduction Video](https://youtu.be/t4jIz2JvUjY)| [Download Dataset](http://forms.gle/y5vPeyT6zi9gdqD57)
 
 
 # Dataset Details 
